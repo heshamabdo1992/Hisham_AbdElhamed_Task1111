@@ -1,0 +1,212 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v4.4]
+################################################################################################################################################
+[ReportManager] Successfully loaded the following test data file [src/test/resources/TestDataFiles/testSuite01/TestData2.xlsx]. @02-01-2021 14:57:21.0926 PM
+[ReportManager] Successfully created attachment [Test Data - Excel] @02-01-2021 14:57:21.0937 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 14:57:22.0261 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 14:57:22.0337 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 14:57:22.0338 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 14:57:33.0463 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.authenticationPage]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @02-01-2021 14:58:11.0339 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @02-01-2021 14:58:11.0347 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @02-01-2021 14:58:11.0875 PM
+[ReportManager] Browser Action [closeCurrentWindow] successfully performed. @02-01-2021 14:58:13.0145 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - closeCurrentWindow - Actual Value] @02-01-2021 14:58:13.0155 PM
+[ReportManager] Successfully created attachment [Video Recording - closeAll] @02-01-2021 14:58:17.0489 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 14:58:17.0495 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 14:58:17.0496 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 14:58:17.0496 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 14:58:20.0900 PM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.authenticationPageEmailField]
+################################################################################################################################################
+
+
+
+################################################################################################################################################
+Starting Execution:	[3 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.personalInfoFields]
+################################################################################################################################################
+
+
+
+################################################################################################################################################
+Starting Execution:	[4 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.requiredFieldsEmpty]
+################################################################################################################################################
+
+
+
+################################################################################################################################################
+Starting Execution:	[5 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.requiredFieldsInputFormat]
+################################################################################################################################################
+
+
+
+################################################################################################################################################
+Starting Execution:	[6 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.createAccountSuccessfully]
+################################################################################################################################################
+
+[ReportManager] Successfully loaded the following test data file [src/test/resources/TestDataFiles/testSuite01/TestData2.xlsx]. @02-01-2021 14:58:53.0462 PM
+[ReportManager] Successfully created attachment [Test Data - Excel] @02-01-2021 14:58:53.0466 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 14:58:53.0472 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 14:58:53.0473 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 14:58:53.0473 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 14:58:56.0988 PM
+
+################################################################################################################################################
+Starting Execution:	[7 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.loginPage]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @02-01-2021 14:59:18.0204 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @02-01-2021 14:59:18.0214 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @02-01-2021 14:59:18.0463 PM
+[ReportManager] Browser Action [closeCurrentWindow] successfully performed. @02-01-2021 14:59:19.0174 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - closeCurrentWindow - Actual Value] @02-01-2021 14:59:19.0180 PM
+[ReportManager] Successfully created attachment [Video Recording - closeAll] @02-01-2021 14:59:20.0270 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 14:59:20.0273 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 14:59:20.0273 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 14:59:20.0273 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 14:59:23.0790 PM
+
+################################################################################################################################################
+Starting Execution:	[8 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.invalidCredentials]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @02-01-2021 14:59:59.0216 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @02-01-2021 14:59:59.0222 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @02-01-2021 14:59:59.0484 PM
+[ReportManager] Browser Action [closeCurrentWindow] successfully performed. @02-01-2021 15:00:00.0168 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - closeCurrentWindow - Actual Value] @02-01-2021 15:00:00.0173 PM
+[ReportManager] Successfully created attachment [Video Recording - closeAll] @02-01-2021 15:00:00.0629 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 15:00:00.0631 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 15:00:00.0632 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 15:00:00.0632 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 15:00:04.0121 PM
+
+################################################################################################################################################
+Starting Execution:	[9 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.loginWithoutCredentials]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @02-01-2021 15:00:32.0469 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @02-01-2021 15:00:32.0476 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @02-01-2021 15:00:32.0761 PM
+[ReportManager] Browser Action [closeCurrentWindow] successfully performed. @02-01-2021 15:00:33.0432 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - closeCurrentWindow - Actual Value] @02-01-2021 15:00:33.0434 PM
+[ReportManager] Successfully created attachment [Video Recording - closeAll] @02-01-2021 15:00:33.0792 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 15:00:33.0795 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 15:00:33.0795 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 15:00:33.0796 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 15:00:37.0053 PM
+
+################################################################################################################################################
+Starting Execution:	[10 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.emailFormat]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @02-01-2021 15:00:59.0043 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @02-01-2021 15:00:59.0049 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @02-01-2021 15:00:59.0193 PM
+[ReportManager] Browser Action [closeCurrentWindow] successfully performed. @02-01-2021 15:00:59.0868 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - closeCurrentWindow - Actual Value] @02-01-2021 15:00:59.0871 PM
+[ReportManager] Successfully created attachment [Video Recording - closeAll] @02-01-2021 15:01:00.0910 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 15:01:00.0913 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 15:01:00.0913 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 15:01:00.0913 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 15:01:04.0197 PM
+
+################################################################################################################################################
+Starting Execution:	[11 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.successfulLogin]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @02-01-2021 15:01:40.0446 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @02-01-2021 15:01:40.0454 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @02-01-2021 15:01:40.0809 PM
+[ReportManager] Browser Action [closeCurrentWindow] successfully performed. @02-01-2021 15:01:41.0587 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - closeCurrentWindow - Actual Value] @02-01-2021 15:01:41.0588 PM
+[ReportManager] Successfully created attachment [Video Recording - closeAll] @02-01-2021 15:01:42.0606 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/TestDataFiles/testSuite01/TestData2.xlsx]. @02-01-2021 15:01:42.0707 PM
+[ReportManager] Successfully created attachment [Test Data - Excel] @02-01-2021 15:01:42.0708 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 15:01:42.0709 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 15:01:42.0709 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 15:01:42.0709 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 15:01:45.0957 PM
+
+################################################################################################################################################
+Starting Execution:	[12 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.selectChlotes]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[13 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.deleteCartProducts]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[14 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.checkingCartProductsQtyAndPrice]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[15 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.continueToShoppingSummary]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[16 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.increaseQtyOfProduct1]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[17 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.signinRequest]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[18 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.billingAndDeliveryAddress]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[19 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.termsOfServiceModal]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[20 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.payment]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[21 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.confirmOrder]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[22 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.checkIsOrderVisibleInOrderHistorySection]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - performance] @02-01-2021 15:04:27.0627 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @02-01-2021 15:04:27.0632 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @02-01-2021 15:04:28.0775 PM
+[ReportManager] Browser Action [closeCurrentWindow] successfully performed. @02-01-2021 15:04:29.0459 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - closeCurrentWindow - Actual Value] @02-01-2021 15:04:29.0462 PM
+[ReportManager] Successfully created attachment [Video Recording - closeAll] @02-01-2021 15:04:31.0599 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @02-01-2021 15:04:36.0448 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v4.4]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

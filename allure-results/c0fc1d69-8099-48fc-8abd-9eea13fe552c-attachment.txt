@@ -1,0 +1,6 @@
+[ReportManager] Successfully loaded the following test data file [src/test/resources/TestDataFiles/testSuite01/TestData2.xlsx]. @02-01-2021 15:01:42.0707 PM
+[ReportManager] Successfully created attachment [Test Data - Excel] @02-01-2021 15:01:42.0708 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 15:01:42.0709 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 15:01:42.0709 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 15:01:42.0709 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 15:01:45.0957 PM

@@ -1,0 +1,4 @@
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2021 15:00:33.0795 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2021 15:00:33.0795 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2021 15:00:33.0796 PM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2021 15:00:37.0053 PM
